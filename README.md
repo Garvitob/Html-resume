@@ -24,5 +24,5 @@ Installation / Usage
 Clone the repository:
 https://github.com/Garvitob/Html-resume
 
-Live Demo
-html-resume-pi-three.vercel.app
+Live Demo:
+https://html-resume-pi-three.vercel.app/
