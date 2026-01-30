@@ -25,4 +25,4 @@ Clone the repository:
 https://github.com/Garvitob/Html-resume
 
 Live Demo
-🔗 Live Website: html-resume-pi-three.vercel.app
+html-resume-pi-three.vercel.app
